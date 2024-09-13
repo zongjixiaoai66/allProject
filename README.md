@@ -1,13 +1,3 @@
-# 项目汇总
-3300套JAVA毕业设计项目成品源码，需要的同学请自行下载~
-【获取方式1】 百度网盘：https://pan.baidu.com/s/1BmRAWyo5IZ-NDw52OBtp9w?pwd=l9ag
-
-【获取方式2】 夸克网盘：
-
-链接：https://pan.quark.cn/s/dd5057677bb2
-
-提取码：RXbB
-
 # 启动安装包
 
 https://pan.baidu.com/s/1s51E22bl8JoFoc1D-Qja1Q?pwd=ajhb
